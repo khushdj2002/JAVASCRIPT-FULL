@@ -71,3 +71,5 @@ S.No 	Methods 	Description
 
 ### new keyword is used to creatwe an object...  lyk  new Object() 
 >>>>>>> fe25f76050f26e3e1331057a33189ab2aeea0995
+
+### new keyword is used to creatwe an object...  lyk  new Object() 
