@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JavaScript Objects
 S.No 	Methods 	Description
 ## 1 	Object.assign() 	This method is used to copy enumerable and own properties from a source object to a target object
@@ -58,3 +59,15 @@ S.No 	Methods 	Description
 ## toString() 	It converts the elements of a specified array into string form, without affecting the original array.
 ## unshift() 	It adds one or more elements in the beginning of the given array.
 ## values() 	It creates a new iterator object carrying values for each index in the array.
+=======
+# JavaScript
+
+## Class 
+### class is used to declare a class constructor is to initialize an object and u can declare methods and pass objects to a variable
+
+### NOTE:  unlike function class need to be declared first before writing any code So declaring class is important...   and class can be declared only once.
+
+## Object
+
+### new keyword is used to creatwe an object...  lyk  new Object() 
+>>>>>>> fe25f76050f26e3e1331057a33189ab2aeea0995
